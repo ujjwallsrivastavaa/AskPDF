@@ -1,12 +1,12 @@
 # AskPDF - Conversational AI with Gemini and OpenAI
 
-LangChain is a conversational AI application that leverages the power of the Gemini and OpenAI models to provide users with an interactive chat experience. Users can ask questions and receive answers based on the context provided by uploaded PDF documents.
+AskPDF is a conversational AI application that leverages the power of the Gemini and OpenAI models to provide users with an interactive chat experience. Users can ask questions and receive answers based on the context provided by uploaded PDF documents.
 
 ![image](https://github.com/huseyincenik/streamlit_langchain/assets/127469334/8722fb97-c1b6-485d-a354-23e5a6227716)
 
 ## Features
 
-- **Multi-Model Support**: LangChain supports both the Gemini and OpenAI models for conversational AI.
+- **Multi-Model Support**: AskPDF supports both the Gemini and OpenAI models for conversational AI.
 - **PDF Document Integration**: Users can upload PDF documents to provide context for the conversation.
 - **Interactive Chat Interface**: Users can ask questions and receive immediate responses within the application.
 - **Conversation History**: All user queries and responses are logged, allowing users to review past interactions.
@@ -14,7 +14,7 @@ LangChain is a conversational AI application that leverages the power of the Gem
 
 ## Getting Started
 
-To run the LangChain application locally, follow these steps:
+To run the AskPDF application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
@@ -26,7 +26,7 @@ To run the LangChain application locally, follow these steps:
 
 ## Usage
 
-Once the LangChain application is running, follow these steps to use it:
+Once the AskPDF application is running, follow these steps to use it:
 
 1. Upload PDF documents using the file uploader on the sidebar.
 2. Select the model you want to use (Gemini or OpenAI) from the sidebar radio button.
