@@ -1,4 +1,4 @@
-# LangChain - Conversational AI with Gemini and OpenAI
+# AskPDF - Conversational AI with Gemini and OpenAI
 
 LangChain is a conversational AI application that leverages the power of the Gemini and OpenAI models to provide users with an interactive chat experience. Users can ask questions and receive answers based on the context provided by uploaded PDF documents.
 
@@ -33,20 +33,3 @@ Once the LangChain application is running, follow these steps to use it:
 3. Enter your API keys for the selected model in the respective text inputs.
 4. Type your question in the text input field and press Enter or click the "Submit & Process" button.
 5. View the conversation history and download it as a CSV file from the sidebar.
-
-## Feedback
-
-We welcome any feedback or suggestions for improving LangChain! Feel free to [open an issue](https://github.com/your-username/langchain/issues) on GitHub or [contact us](mailto:huseyinceniik@gmail.com) directly.
-
-# Links
-
-- [Github](https://github.com/huseyincenik/streamlit_langchain)
-- [Streamlit](https://chat-with-multiple-pdfs-langchain.streamlit.app/)
-- [Linkedin Post](Linkedin)
-
-## Contributors
-
-- Ayse Ucmakli [Linkedin](https://www.linkedin.com/in/ayse-ucmakli/)
-- Elif Aker [Linkedin](https://www.linkedin.com/in/elif-aker/)
-
-[![](https://visitcount.itsvg.in/api?id=huseyincenik.streamlit_langchain/&label=Visiter%20Count&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
